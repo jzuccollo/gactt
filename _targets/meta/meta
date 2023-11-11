@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+datapath|stem|f8cb3e9b75831998|1656c8d7ee79a190|ef46db3751d8e999|-1598464029|data/gactt_results_anon.csv|t19671.9997420612s|9955f5e00db87677|3086674|file|local|vector|||0.011||
+gactt_data|stem|1e6d7fec9410b2c2|d39ff5e500da1276|cddd0500a658bab7|-610706408||t19672.058935634s|a608aefc3df0ab81|906674|feather|local|vector|||1.706||
+read_data|function|5281596f0902b1d2|||||||||||||||
